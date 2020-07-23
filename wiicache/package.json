@@ -1,0 +1,55 @@
+{
+  "_from": "wiicache",
+  "_id": "wiicache@1.0.5",
+  "_inBundle": false,
+  "_integrity": "sha512-DOs8MyGf4Iy0203wQd+cViHWaTeX7ma+nagoAqj6EvL7Bg584Op8tKrQmCMPs4BYFHq/X8T3HUFZbLOJwJ5/Sw==",
+  "_location": "/wiicache",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "wiicache",
+    "name": "wiicache",
+    "escapedName": "wiicache",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/wiicache/-/wiicache-1.0.5.tgz",
+  "_shasum": "69c9c02e2ba5e90ea6246829b3d3873a6b97ca7b",
+  "_spec": "wiicache",
+  "_where": "/Users/senlyn/Documents/self/wiicache",
+  "author": {
+    "name": "zhuge"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "fs-extra": "^7.0.1"
+  },
+  "deprecated": false,
+  "description": "前端node+express+ejs静态化模块",
+  "engines": {
+    "node": ">6.0.0"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "ejs"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "wiicache",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git@git.zhugefang.com:frontend/wiicache.git"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "version": "1.0.5"
+}
